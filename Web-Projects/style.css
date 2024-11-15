@@ -1,0 +1,30 @@
+.container {
+    background-color: antiquewhite;
+    border: 2px black solid;
+    height: 300px;
+    width: 300px;
+    margin-left: 43%;
+    margin-top: 10%;
+    justify-content: center;
+    text-align: center;
+
+}
+.middle{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+#new-task{
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 4%;
+}
+.btn{
+    margin-left: 2%;
+    cursor: pointer;
+}
+.line{
+    color: red;
+    width: 1.2px;
+}
